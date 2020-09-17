@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Arisamiga! :D
 
-<!--
-**Arisamiga/Arisamiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/usxXcd9.gif">
 
-Here are some ideas to get you started:
+[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://twitter.com/arisamiga_
+
+- 🔭 I’m currently working on coding Discord bots!
+
+- 🌱 I’m currently learning Javascript, Html, Css!
+
+-  <img src="https://i.imgur.com/yRiqWgJ.png" width="20" height="20"> Amiga Lover!
+
+- 📫 How to reach me: [![alt text][1.2]][1]
+
+![Arisamiga's github stats](https://github-readme-stats.vercel.app/api?username=Arisamiga)
