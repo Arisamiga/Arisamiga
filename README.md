@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arisamiga! :D
+## Hi there 👋, I'm Arisamiga! :D
 
 <img src="https://i.imgur.com/usxXcd9.gif">
 
