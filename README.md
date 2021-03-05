@@ -14,8 +14,8 @@
 
 - 📫 How to reach me: [![alt text][1.2]][1]
 
-![Arisamiga's github stats](https://github-readme-stats.vercel.app/api?username=Arisamiga)
+![Arisamiga's github stats](https://arisamigastats.vercel.app/api?username=Arisamiga)
 
-^ This doesnt caculate the private repositories D:
+^ This caculate the private repositories :D
 
-![Arisamiga](https://github-readme-stats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact)
+![Arisamiga](https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact)
