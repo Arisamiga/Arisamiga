@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript,Html,Css and Python!**
 
-- 💻 Current Developer of   [**Chile**](https://top.gg/bot/741223243758960680): [![Discord Bots](https://top.gg/api/widget/status/741223243758960680.svg)](https://top.gg/bot/741223243758960680)
+- 👨‍💻 Current Developer of   [**Chile**](https://top.gg/bot/741223243758960680): [![Discord Bots](https://top.gg/api/widget/status/741223243758960680.svg)](https://top.gg/bot/741223243758960680)
 
 -  <img src="https://i.imgur.com/9NhAizF.gif" width="25" height="25"> Amiga Lover!
 
