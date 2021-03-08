@@ -16,8 +16,8 @@
 
 - 📫 How to reach me: [![alt text][1.2]][1]
 
-![Arisamiga's github stats](https://arisamigastats.vercel.app/api?username=Arisamiga)
+<p align="center"> <img src= https://arisamigastats.vercel.app/api?username=Arisamiga></p>
 
 ^ This caculate the private repositories :D
 
-![Arisamiga](https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact)
+<p align="center"> <img src= https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact></p>
