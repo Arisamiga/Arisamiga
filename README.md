@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on coding Discord bots! (Most of them for friends) and my [website](https://arisamiga.rocks)!
 
-- 🌱 I’m currently learning **Javascript,Html,Css,Sql and Python!**
+- 🌱 I’m currently learning **Javascript,Html,Css,Sql,Python and Java!**
 
 - 👨‍💻 Current Developer of   [**Chile**](https://top.gg/bot/741223243758960680): [![Discord Bots](https://top.gg/api/widget/status/741223243758960680.svg)](https://top.gg/bot/741223243758960680)
 
