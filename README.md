@@ -6,7 +6,7 @@
 
 [1]: https://twitter.com/arisamiga_
 
-- 🔭 I’m currently working on coding Discord bots! (Most of them for friends) and my [website](https://arisamiga.rocks)!
+- 🔭 I’m currently working on coding Discord bots! (Most of them for friends) and my [blog](https://blog.arisamiga.rocks/)!
 
 - 🌱 I’m currently learning **Javascript,Html,Css,Sql,Python and Java!**
 
