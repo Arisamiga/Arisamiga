@@ -22,7 +22,7 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
 
 [1]: https://twitter.com/arisamiga_
-
+#
 - 🔭 I’m currently working on coding 🤖Bots and 🕸️Websites and my 📝[Blog](https://blog.arisamiga.rocks/)!
 
 - 🌱 I’m currently learning **Sql and Java!**
