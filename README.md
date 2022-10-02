@@ -23,7 +23,7 @@
 
 [1]: https://twitter.com/arisamiga_
 
-- 🔭 I’m currently working on coding Discord bots! (Most of them for friends) and my [blog](https://blog.arisamiga.rocks/)!
+- 🔭 I’m currently working on coding 🤖Bots and 🕸️Websites and my 📝[Blog](https://blog.arisamiga.rocks/)!
 
 - 🌱 I’m currently learning **Sql and Java!**
 
@@ -33,13 +33,17 @@
 
 - 📫 How to reach me: [![alt text][1.2]][1]
 
-![Arisamiga's github stats](https://arisamigastats.vercel.app/api?username=Arisamiga)
-
-^ This calculates the private repositories :D
-
-![Arisamiga](https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact)
+#
+📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Making a Feedback System](https://blog.arisamiga.rocks/post/feedback/)
 - [“Life is like a sewer… what you get out of it depends on what you put into it.” - Tom Lehrer](https://blog.arisamiga.rocks/post/quote6/)
 <!-- BLOG-POST-LIST:END -->
+
+#
+
+![Arisamiga's github stats](https://arisamigastats.vercel.app/api?username=Arisamiga)
+<img src="https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact" width=415></img>
+
+^ This calculates the private repositories :D
