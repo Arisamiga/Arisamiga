@@ -43,7 +43,7 @@
 
 #
 
-![Arisamiga's github stats](https://arisamigastats.vercel.app/api?username=Arisamiga)
-<img src="https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact" width=415></img>
+<img src="https://arisamigastats.vercel.app/api?username=Arisamiga" width=455></img>
+<img src="https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact" width=380></img>
 
 ^ This calculates the private repositories :D
