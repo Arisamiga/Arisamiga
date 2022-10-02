@@ -1,4 +1,4 @@
-name: Latest Blog Posts
+name: 📝 Latest Blog Posts
 on:
   schedule:
     - cron: '0 0 * * 0' # Run Every week
@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-blog-posts:
-    name: Update README with latest blog posts
+    name: 🚀 Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
