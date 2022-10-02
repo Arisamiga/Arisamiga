@@ -40,4 +40,6 @@
 ![Arisamiga](https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact)
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Feedback System](https://blog.arisamiga.rocks/post/feedback/)
+- [“Life is like a sewer… what you get out of it depends on what you put into it.” - Tom Lehrer](https://blog.arisamiga.rocks/post/quote6/)
 <!-- BLOG-POST-LIST:END -->
