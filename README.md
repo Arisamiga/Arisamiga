@@ -37,8 +37,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Think like a proton. Always positive.” - Unknown](https://blog.arisamiga.rocks/post/quote7/)
 - [Making a Feedback System](https://blog.arisamiga.rocks/post/feedback/)
-- [“Life is like a sewer… what you get out of it depends on what you put into it.” - Tom Lehrer](https://blog.arisamiga.rocks/post/quote6/)
 <!-- BLOG-POST-LIST:END -->
 
 #
