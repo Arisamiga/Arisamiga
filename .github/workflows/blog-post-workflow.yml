@@ -1,7 +1,7 @@
 name: 📝 Latest Blog Posts
 on:
   schedule:
-    - cron: '0 0 * * 0' # Run Every week
+    - cron: '0 4 * * 1' # Run Every week
   workflow_dispatch:
 
 jobs:
