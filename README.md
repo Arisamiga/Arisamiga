@@ -37,8 +37,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Website, Who Dis?](https://blog.arisamiga.rocks/post/website/)
 - [“Think like a proton. Always positive.” - Unknown](https://blog.arisamiga.rocks/post/quote7/)
-- [Making a Feedback System](https://blog.arisamiga.rocks/post/feedback/)
 <!-- BLOG-POST-LIST:END -->
 
 #
