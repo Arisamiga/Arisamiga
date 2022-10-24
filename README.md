@@ -37,8 +37,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Bad decisions make good stories.” - Ellis Vidler](https://blog.arisamiga.rocks/post/quote8/)
 - [New Website, Who Dis?](https://blog.arisamiga.rocks/post/website/)
-- [“Think like a proton. Always positive.” - Unknown](https://blog.arisamiga.rocks/post/quote7/)
 <!-- BLOG-POST-LIST:END -->
 
 #
