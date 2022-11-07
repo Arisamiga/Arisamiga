@@ -37,8 +37,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“When tempted to fight fire with fire, remember that the Fire Department usually uses water.” - Unknown](https://blog.arisamiga.rocks/post/quote9/)
 - [Happy Halloween!](https://blog.arisamiga.rocks/post/halloween/)
-- [“Bad decisions make good stories.” - Ellis Vidler](https://blog.arisamiga.rocks/post/quote8/)
 <!-- BLOG-POST-LIST:END -->
 
 #
