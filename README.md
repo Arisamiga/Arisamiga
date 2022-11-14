@@ -37,8 +37,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making integration between RSS and LinkedIn](https://blog.arisamiga.rocks/post/linkedinrss/)
 - [“When tempted to fight fire with fire, remember that the Fire Department usually uses water.” - Unknown](https://blog.arisamiga.rocks/post/quote9/)
-- [Happy Halloween!](https://blog.arisamiga.rocks/post/halloween/)
 <!-- BLOG-POST-LIST:END -->
 
 #
