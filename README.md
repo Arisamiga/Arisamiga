@@ -37,8 +37,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Never follow anyone else’s path, unless you’re in the woods and you’re lost.” - Ellen DeGeneres](https://blog.arisamiga.rocks/post/quote10/)
 - [Making integration between RSS and LinkedIn](https://blog.arisamiga.rocks/post/linkedinrss/)
-- [“When tempted to fight fire with fire, remember that the Fire Department usually uses water.” - Unknown](https://blog.arisamiga.rocks/post/quote9/)
 <!-- BLOG-POST-LIST:END -->
 
 #
