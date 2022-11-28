@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Messing with Minecraft&#39;s Code](https://blog.arisamiga.rocks/post/minecraft/)
 - [“Never follow anyone else’s path, unless you’re in the woods and you’re lost.” - Ellen DeGeneres](https://blog.arisamiga.rocks/post/quote10/)
-- [Making integration between RSS and LinkedIn](https://blog.arisamiga.rocks/post/linkedinrss/)
 <!-- BLOG-POST-LIST:END -->
 
 #
