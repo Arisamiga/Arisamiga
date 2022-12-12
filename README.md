@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New GUI On Website!](https://blog.arisamiga.rocks/post/gui/)
 - [“Always laugh when you can, it is cheap medicine.” - Lord Byron](https://blog.arisamiga.rocks/post/quote11/)
-- [Messing with Minecraft&#39;s Code](https://blog.arisamiga.rocks/post/minecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 #
