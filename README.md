@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“You’re only given a little spark of madness. You mustn’t lose it.” - Robin Williams](https://blog.arisamiga.rocks/post/quote12/)
 - [New GUI On Website!](https://blog.arisamiga.rocks/post/gui/)
-- [“Always laugh when you can, it is cheap medicine.” - Lord Byron](https://blog.arisamiga.rocks/post/quote11/)
 <!-- BLOG-POST-LIST:END -->
 
 #
