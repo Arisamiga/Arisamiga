@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas Everyone!](https://blog.arisamiga.rocks/post/christmas/)
 - [“You’re only given a little spark of madness. You mustn’t lose it.” - Robin Williams](https://blog.arisamiga.rocks/post/quote12/)
-- [New GUI On Website!](https://blog.arisamiga.rocks/post/gui/)
 <!-- BLOG-POST-LIST:END -->
 
 #
