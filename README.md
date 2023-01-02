@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy New Year Everyone! Wishing you all an amazing 2023!](https://blog.arisamiga.rocks/post/2023/)
 - [Merry Christmas Everyone!](https://blog.arisamiga.rocks/post/christmas/)
-- [“You’re only given a little spark of madness. You mustn’t lose it.” - Robin Williams](https://blog.arisamiga.rocks/post/quote12/)
 <!-- BLOG-POST-LIST:END -->
 
 #
