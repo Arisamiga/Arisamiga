@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Year, New Language!](https://blog.arisamiga.rocks/post/newlanguage/)
 - [Happy New Year Everyone! Wishing you all an amazing 2023!](https://blog.arisamiga.rocks/post/2023/)
-- [Merry Christmas Everyone!](https://blog.arisamiga.rocks/post/christmas/)
 <!-- BLOG-POST-LIST:END -->
 
 #
