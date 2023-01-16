@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“As you get older, three things happen. The first is your memory goes, and I can&#39;t remember the other two.” - Sir Norman Wisdom](https://blog.arisamiga.rocks/post/quote13/)
 - [New Year, New Language!](https://blog.arisamiga.rocks/post/newlanguage/)
-- [Happy New Year Everyone! Wishing you all an amazing 2023!](https://blog.arisamiga.rocks/post/2023/)
 <!-- BLOG-POST-LIST:END -->
 
 #
