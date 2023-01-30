@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“I am ready to face any challenge that might be foolish enough to face me.” - Dwight Schrute](https://blog.arisamiga.rocks/post/quote14/)
 - [NDK - New Documentation Search Engine](https://blog.arisamiga.rocks/post/ndk/)
-- [“As you get older, three things happen. The first is your memory goes, and I can&#39;t remember the other two.” - Sir Norman Wisdom](https://blog.arisamiga.rocks/post/quote13/)
 <!-- BLOG-POST-LIST:END -->
 
 #
