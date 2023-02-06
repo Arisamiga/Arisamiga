@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Updates to the NDK Search Engine!](https://blog.arisamiga.rocks/post/updatesndk/)
 - [“I am ready to face any challenge that might be foolish enough to face me.” - Dwight Schrute](https://blog.arisamiga.rocks/post/quote14/)
-- [NDK - New Documentation Search Engine](https://blog.arisamiga.rocks/post/ndk/)
 <!-- BLOG-POST-LIST:END -->
 
 #
