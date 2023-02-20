@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spying on the Sun using a Photoresistor](https://blog.arisamiga.rocks/post/spyingonsun/)
 - [“Don’t worry about the world coming to an end today. It is already tomorrow in Australia.” - Charles Schulz](https://blog.arisamiga.rocks/post/quote15/)
-- [Updates to the NDK Search Engine!](https://blog.arisamiga.rocks/post/updatesndk/)
 <!-- BLOG-POST-LIST:END -->
 
 #
