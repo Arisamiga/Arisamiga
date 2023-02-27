@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“The inner machinations of my mind are an enigma.” - Patrick Star](https://blog.arisamiga.rocks/post/quote16/)
 - [Spying on the Sun using a Photoresistor](https://blog.arisamiga.rocks/post/spyingonsun/)
-- [“Don’t worry about the world coming to an end today. It is already tomorrow in Australia.” - Charles Schulz](https://blog.arisamiga.rocks/post/quote15/)
 <!-- BLOG-POST-LIST:END -->
 
 #
