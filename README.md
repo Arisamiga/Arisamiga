@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reminding About Meetings in Discord](https://blog.arisamiga.rocks/post/reminderdiscord/)
 - [“The inner machinations of my mind are an enigma.” - Patrick Star](https://blog.arisamiga.rocks/post/quote16/)
-- [Spying on the Sun using a Photoresistor](https://blog.arisamiga.rocks/post/spyingonsun/)
 <!-- BLOG-POST-LIST:END -->
 
 #
