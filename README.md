@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“I am so clever that sometimes I don’t understand a single word of what I am saying.” - Oscar Wilde](https://blog.arisamiga.rocks/post/quote17/)
 - [Reminding About Meetings in Discord](https://blog.arisamiga.rocks/post/reminderdiscord/)
-- [“The inner machinations of my mind are an enigma.” - Patrick Star](https://blog.arisamiga.rocks/post/quote16/)
 <!-- BLOG-POST-LIST:END -->
 
 #
