@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a mail detection system](https://blog.arisamiga.rocks/post/maildetect/)
 - [“I am so clever that sometimes I don’t understand a single word of what I am saying.” - Oscar Wilde](https://blog.arisamiga.rocks/post/quote17/)
-- [Reminding About Meetings in Discord](https://blog.arisamiga.rocks/post/reminderdiscord/)
 <!-- BLOG-POST-LIST:END -->
 
 #
