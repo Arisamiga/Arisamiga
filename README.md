@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“If opportunity doesn’t knock, build a door.” - Milton Berle](https://blog.arisamiga.rocks/post/quote18/)
 - [Making a mail detection system](https://blog.arisamiga.rocks/post/maildetect/)
-- [“I am so clever that sometimes I don’t understand a single word of what I am saying.” - Oscar Wilde](https://blog.arisamiga.rocks/post/quote17/)
 <!-- BLOG-POST-LIST:END -->
 
 #
