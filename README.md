@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a Gemini Capsule!](https://blog.arisamiga.rocks/post/gemini/)
 - [“If opportunity doesn’t knock, build a door.” - Milton Berle](https://blog.arisamiga.rocks/post/quote18/)
+- [Making a mail detection system](https://blog.arisamiga.rocks/post/maildetect/)
 <!-- BLOG-POST-LIST:END -->
 
 #
