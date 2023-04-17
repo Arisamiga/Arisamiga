@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Integration With GitHub Actions](https://blog.arisamiga.rocks/post/githubactions/)
 - [“You must learn from the mistakes of others. You can’t possibly live long enough to make them all yourself.” - Sam Levenson](https://blog.arisamiga.rocks/post/quote19/)
-- [Making a Gemini Capsule!](https://blog.arisamiga.rocks/post/gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 #
