@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Remember, today is the tomorrow you worried about yesterday.” - Dale Carnegie](https://blog.arisamiga.rocks/post/quote20/)
 - [Continuous Integration With GitHub Actions](https://blog.arisamiga.rocks/post/githubactions/)
-- [“You must learn from the mistakes of others. You can’t possibly live long enough to make them all yourself.” - Sam Levenson](https://blog.arisamiga.rocks/post/quote19/)
 <!-- BLOG-POST-LIST:END -->
 
 #
