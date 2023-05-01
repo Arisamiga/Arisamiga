@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tic-Tac-Toe.](https://blog.arisamiga.rocks/post/tictactoe/)
 - [“Remember, today is the tomorrow you worried about yesterday.” - Dale Carnegie](https://blog.arisamiga.rocks/post/quote20/)
-- [Continuous Integration With GitHub Actions](https://blog.arisamiga.rocks/post/githubactions/)
 <!-- BLOG-POST-LIST:END -->
 
 #
