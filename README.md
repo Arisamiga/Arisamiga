@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“A clear conscience is a sure sign of a bad memory.” - Mark Twain](https://blog.arisamiga.rocks/post/quote21/)
 - [Tic-Tac-Toe.](https://blog.arisamiga.rocks/post/tictactoe/)
-- [“Remember, today is the tomorrow you worried about yesterday.” - Dale Carnegie](https://blog.arisamiga.rocks/post/quote20/)
 <!-- BLOG-POST-LIST:END -->
 
 #
