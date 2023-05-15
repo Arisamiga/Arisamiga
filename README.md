@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Weather app!](https://blog.arisamiga.rocks/post/weather/)
 - [“A clear conscience is a sure sign of a bad memory.” - Mark Twain](https://blog.arisamiga.rocks/post/quote21/)
-- [Tic-Tac-Toe.](https://blog.arisamiga.rocks/post/tictactoe/)
 <!-- BLOG-POST-LIST:END -->
 
 #
