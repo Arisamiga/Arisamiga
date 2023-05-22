@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Oh yes, the past can hurt. But, you can either run from it or learn from it.” - Rafiki, “the Lion King”](https://blog.arisamiga.rocks/post/quote22/)
 - [Making a Weather app!](https://blog.arisamiga.rocks/post/weather/)
-- [“A clear conscience is a sure sign of a bad memory.” - Mark Twain](https://blog.arisamiga.rocks/post/quote21/)
 <!-- BLOG-POST-LIST:END -->
 
 #
