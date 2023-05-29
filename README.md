@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Its Summer Time! ☀️](https://blog.arisamiga.rocks/post/summer/)
 - [“Oh yes, the past can hurt. But, you can either run from it or learn from it.” - Rafiki, “the Lion King”](https://blog.arisamiga.rocks/post/quote22/)
-- [Making a Weather app!](https://blog.arisamiga.rocks/post/weather/)
 <!-- BLOG-POST-LIST:END -->
 
 #
