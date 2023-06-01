@@ -23,7 +23,7 @@
 
 [1]: https://twitter.com/arisamiga_
 #
-- 🔭 I’m currently working on coding 🤖Bots and 🕸️Websites and my 📝[Blog](https://blog.arisamiga.rocks/)!
+- 🔭 I’m currently working on coding 🤖Bots and Automations and 🕸️Websites and my 📝[Blog](https://blog.arisamiga.rocks/)!
 
 - 🌱 I’m currently learning **SQL, Java and C!**
 
