@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making files with Makefile](https://blog.arisamiga.rocks/post/makefile/)
 - [“The bad news is time flies. The good news is you’re the pilot.” - Michael Altshuler](https://blog.arisamiga.rocks/post/quote23/)
-- [Its Summer Time! ☀️](https://blog.arisamiga.rocks/post/summer/)
 <!-- BLOG-POST-LIST:END -->
 
 #
