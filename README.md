@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“A laugh can be a very powerful thing. Why, sometimes in life, it’s the only weapon we have.” - Charles Fleischer](https://blog.arisamiga.rocks/post/quote24/)
 - [Making files with Makefile](https://blog.arisamiga.rocks/post/makefile/)
-- [“The bad news is time flies. The good news is you’re the pilot.” - Michael Altshuler](https://blog.arisamiga.rocks/post/quote23/)
 <!-- BLOG-POST-LIST:END -->
 
 #
