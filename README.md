@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a New Friend!](https://blog.arisamiga.rocks/post/pwnagotchi/)
 - [“A laugh can be a very powerful thing. Why, sometimes in life, it’s the only weapon we have.” - Charles Fleischer](https://blog.arisamiga.rocks/post/quote24/)
-- [Making files with Makefile](https://blog.arisamiga.rocks/post/makefile/)
 <!-- BLOG-POST-LIST:END -->
 
 #
