@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“If every instinct you have is wrong, then the opposite would have to be right.” - Jerry Seinfeld, Seinfeld](https://blog.arisamiga.rocks/post/quote25/)
 - [Making a New Friend!](https://blog.arisamiga.rocks/post/pwnagotchi/)
-- [“A laugh can be a very powerful thing. Why, sometimes in life, it’s the only weapon we have.” - Charles Fleischer](https://blog.arisamiga.rocks/post/quote24/)
 <!-- BLOG-POST-LIST:END -->
 
 #
