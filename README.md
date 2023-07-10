@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Management in C](https://blog.arisamiga.rocks/post/cmemory/)
 - [“If every instinct you have is wrong, then the opposite would have to be right.” - Jerry Seinfeld, Seinfeld](https://blog.arisamiga.rocks/post/quote25/)
-- [Making a New Friend!](https://blog.arisamiga.rocks/post/pwnagotchi/)
 <!-- BLOG-POST-LIST:END -->
 
 #
