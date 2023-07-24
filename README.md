@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using ESlint and Prettier!](https://blog.arisamiga.rocks/post/eslintprettier/)
 - [“Live each day like it&#39;s your second to the last. That way you can fall asleep at night.” - Jason Love](https://blog.arisamiga.rocks/post/quote26/)
-- [Memory Management in C](https://blog.arisamiga.rocks/post/cmemory/)
 <!-- BLOG-POST-LIST:END -->
 
 #
