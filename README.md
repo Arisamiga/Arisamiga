@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a AmigaGuide guide.](https://blog.arisamiga.rocks/post/amigaguide/)
 - [“I like nonsense, it wakes up the brain cells.” - Dr. Seuss](https://blog.arisamiga.rocks/post/quote27/)
-- [Using ESlint and Prettier!](https://blog.arisamiga.rocks/post/eslintprettier/)
 <!-- BLOG-POST-LIST:END -->
 
 #
