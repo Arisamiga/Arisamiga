@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“It is not the answer that enlightens, but the question.” - Eugene Ionesco](https://blog.arisamiga.rocks/post/quote28/)
 - [Making a AmigaGuide guide.](https://blog.arisamiga.rocks/post/amigaguide/)
-- [“I like nonsense, it wakes up the brain cells.” - Dr. Seuss](https://blog.arisamiga.rocks/post/quote27/)
 <!-- BLOG-POST-LIST:END -->
 
 #
