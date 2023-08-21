@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging In Amiga](https://blog.arisamiga.rocks/post/debuggingamiga/)
 - [“It is not the answer that enlightens, but the question.” - Eugene Ionesco](https://blog.arisamiga.rocks/post/quote28/)
-- [Making a AmigaGuide guide.](https://blog.arisamiga.rocks/post/amigaguide/)
 <!-- BLOG-POST-LIST:END -->
 
 #
