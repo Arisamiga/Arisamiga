@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“If you let your head get too big, it&#39;ll break your neck.” - Elvis Presley](https://blog.arisamiga.rocks/post/quote29/)
 - [Debugging In Amiga](https://blog.arisamiga.rocks/post/debuggingamiga/)
-- [“It is not the answer that enlightens, but the question.” - Eugene Ionesco](https://blog.arisamiga.rocks/post/quote28/)
 <!-- BLOG-POST-LIST:END -->
 
 #
