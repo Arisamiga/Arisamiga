@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making my first Amiga Application!](https://blog.arisamiga.rocks/post/mnemosyne/)
 - [“If you let your head get too big, it&#39;ll break your neck.” - Elvis Presley](https://blog.arisamiga.rocks/post/quote29/)
-- [Debugging In Amiga](https://blog.arisamiga.rocks/post/debuggingamiga/)
 <!-- BLOG-POST-LIST:END -->
 
 #
