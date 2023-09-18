@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mnemosyne 1.0.1 Release!](https://blog.arisamiga.rocks/post/mnemosyneupdate/)
 - [“No man ever steps in the same river twice, for it&#39;s not the same river and he&#39;s not the same man.” - Heraclitus](https://blog.arisamiga.rocks/post/quote30/)
-- [Making my first Amiga Application!](https://blog.arisamiga.rocks/post/mnemosyne/)
 <!-- BLOG-POST-LIST:END -->
 
 #
