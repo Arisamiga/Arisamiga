@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“It’s not whether you get knocked down, it’s whether you get up.” - Vince Lombardi](https://blog.arisamiga.rocks/post/quote31/)
 - [Mnemosyne 1.0.1 Release!](https://blog.arisamiga.rocks/post/mnemosyneupdate/)
-- [“No man ever steps in the same river twice, for it&#39;s not the same river and he&#39;s not the same man.” - Heraclitus](https://blog.arisamiga.rocks/post/quote30/)
 <!-- BLOG-POST-LIST:END -->
 
 #
