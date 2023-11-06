@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [“It’s not whether you get knocked down, it’s whether you get up.” - Vince Lombardi](https://blog.arisamiga.rocks/post/quote31/)
-- [Mnemosyne 1.0.1 Release!](https://blog.arisamiga.rocks/post/mnemosyneupdate/)
+- [“A little nonsense now and then is relished by the wisest men.” — Willy Wonka and the Chocolate Factory](https://blog.arisamiga.rocks/post/quote32/)
+- [Happy Halloween! Mnemosyne 1.0.2 &amp; 1.1.0 Release!](https://blog.arisamiga.rocks/post/mnemosyne-halloween/)
 <!-- BLOG-POST-LIST:END -->
 
 #
