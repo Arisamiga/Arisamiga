@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mnemosyne 1.1.1 Release!](https://blog.arisamiga.rocks/post/mnemosyne1-1-1/)
 - [“A little nonsense now and then is relished by the wisest men.” — Willy Wonka and the Chocolate Factory](https://blog.arisamiga.rocks/post/quote32/)
-- [Happy Halloween! Mnemosyne 1.0.2 &amp; 1.1.0 Release!](https://blog.arisamiga.rocks/post/mnemosyne-halloween/)
 <!-- BLOG-POST-LIST:END -->
 
 #
