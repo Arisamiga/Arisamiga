@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“The problem is not the problem. The problem is your attitude about the problem. Do you understand?” — Captain Jack Sparrow](https://blog.arisamiga.rocks/post/quote33/)
 - [Mnemosyne 1.1.1 Release!](https://blog.arisamiga.rocks/post/mnemosyne1-1-1/)
-- [“A little nonsense now and then is relished by the wisest men.” — Willy Wonka and the Chocolate Factory](https://blog.arisamiga.rocks/post/quote32/)
 <!-- BLOG-POST-LIST:END -->
 
 #
