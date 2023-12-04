@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Working hard is important. But there is something that matters more, believing yourself.” - Harry Potter](https://blog.arisamiga.rocks/post/quote34/)
 - [New Search Feature!](https://blog.arisamiga.rocks/post/search/)
-- [“The problem is not the problem. The problem is your attitude about the problem. Do you understand?” — Captain Jack Sparrow](https://blog.arisamiga.rocks/post/quote33/)
 <!-- BLOG-POST-LIST:END -->
 
 #
