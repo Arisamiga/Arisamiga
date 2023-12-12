@@ -1,0 +1,17 @@
+name: 📤 Testing Linkedin Blog Post Workflow
+on:
+  workflow_dispatch:
+  
+jobs:
+  linkedin_rss_job:
+    runs-on: ubuntu-latest
+    name: 📤 Testing Post Latest RSS Post to Linkedin
+    steps:
+      - name: 🧱 Checkout
+        uses: actions/checkout@v3
+      - name: 📫 Get Latest Post / Post On Linkedin
+        uses: Arisamiga/Linkedin-RSS@master
+        with:
+          feed_list: ${{ secrets.feed_list }}
+          ln_access_token: ${{ secrets.test_ln_access_token }}
+          embed_image: ${{ secrets.embed_image }}
