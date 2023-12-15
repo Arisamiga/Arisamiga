@@ -1,5 +1,5 @@
 name: + Linkedin Testing Workflow
-# on:
+on:
 #   schedule:
 #     - cron: '0 13 * * 1'
   workflow_dispatch:
