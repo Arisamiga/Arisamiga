@@ -1,0 +1,19 @@
+name: + Linkedin Testing Workflow
+# on:
+#   schedule:
+#     - cron: '0 13 * * 1'
+  workflow_dispatch:
+  
+jobs:
+  linkedin_rss_job:
+    runs-on: ubuntu-latest
+    name: 📤 Post Latest RSS Post to Linkedin
+    steps:
+      - name: 🧱 Checkout
+        uses: actions/checkout@v3
+      - name: 📫 Get Latest Post / Post On Linkedin
+        uses: Arisamiga/Linkedin-RSS@lastpost-file
+        with:
+          feed_list: ${{ secrets.feed_list }}
+          ln_access_token: ${{ secrets.ln_access_token }}
+          embed_image: ${{ secrets.embed_image }}
