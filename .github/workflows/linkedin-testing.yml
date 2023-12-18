@@ -12,7 +12,7 @@ jobs:
       - name: 🧱 Checkout
         uses: actions/checkout@v3
       - name: 📫 Get Latest Post / Post On Linkedin
-        uses: Arisamiga/Linkedin-RSS@lastpost-file
+        uses: Arisamiga/Linkedin-RSS@arisamiga
         with:
           feed_list: ${{ secrets.feed_list }}
           ln_access_token: ${{ secrets.ln_access_token }}
