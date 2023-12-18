@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Wisdom comes from experience. Experience is often a result of lack of wisdom.” - Terry Pratchett](https://blog.arisamiga.rocks/post/quote35/)
 - [It&#39;s December Time! ☃️](https://blog.arisamiga.rocks/post/december/)
-- [“Working hard is important. But there is something that matters more, believing yourself.” - Harry Potter](https://blog.arisamiga.rocks/post/quote34/)
 <!-- BLOG-POST-LIST:END -->
 
 #
