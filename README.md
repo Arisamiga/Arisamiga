@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas Everyone 🎄](https://blog.arisamiga.rocks/post/merrychristmas/)
 - [“Wisdom comes from experience. Experience is often a result of lack of wisdom.” - Terry Pratchett](https://blog.arisamiga.rocks/post/quote35/)
-- [It&#39;s December Time! ☃️](https://blog.arisamiga.rocks/post/december/)
 <!-- BLOG-POST-LIST:END -->
 
 #
