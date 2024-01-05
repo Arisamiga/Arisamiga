@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“The New Year is a painting not yet painted; a path not yet stepped on; a wing not yet taken off!” - Mehmet Murat ildan](https://blog.arisamiga.rocks/post/quote36/)
 - [Merry Christmas Everyone 🎄](https://blog.arisamiga.rocks/post/merrychristmas/)
-- [“Wisdom comes from experience. Experience is often a result of lack of wisdom.” - Terry Pratchett](https://blog.arisamiga.rocks/post/quote35/)
 <!-- BLOG-POST-LIST:END -->
 
 #
