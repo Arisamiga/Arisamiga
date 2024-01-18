@@ -1,7 +1,7 @@
 name: 📤 Linkedin Blog Post Workflow
 on:
   schedule:
-    - cron: '0 13 * * 1'
+    - cron: '0 13 * * *'
   workflow_dispatch:
   
 jobs:
