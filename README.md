@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mnemosyne 1.2.0 Release!](https://blog.arisamiga.rocks/post/mnemosyne1-2-0/)
 - [“The New Year is a painting not yet painted; a path not yet stepped on; a wing not yet taken off!” - Mehmet Murat ildan](https://blog.arisamiga.rocks/post/quote36/)
-- [Merry Christmas Everyone 🎄](https://blog.arisamiga.rocks/post/merrychristmas/)
 <!-- BLOG-POST-LIST:END -->
 
 #
