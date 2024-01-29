@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“The time you enjoy wasting, is not wasted time” - John Lennon](https://blog.arisamiga.rocks/post/quote37/)
 - [Mnemosyne 1.2.0 Release!](https://blog.arisamiga.rocks/post/mnemosyne1-2-0/)
-- [“The New Year is a painting not yet painted; a path not yet stepped on; a wing not yet taken off!” - Mehmet Murat ildan](https://blog.arisamiga.rocks/post/quote36/)
 <!-- BLOG-POST-LIST:END -->
 
 #
