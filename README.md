@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“I can make that!“ - Valentine&#39;s Day](https://blog.arisamiga.rocks/post/valentines/)
 - [“The time you enjoy wasting, is not wasted time” - John Lennon](https://blog.arisamiga.rocks/post/quote37/)
-- [Mnemosyne 1.2.0 Release!](https://blog.arisamiga.rocks/post/mnemosyne1-2-0/)
 <!-- BLOG-POST-LIST:END -->
 
 #
