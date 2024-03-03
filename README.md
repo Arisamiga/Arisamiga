@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“A day without sunshine is like, you know, night.” - Steve Martin](https://blog.arisamiga.rocks/post/quote38/)
 - [“I can make that!“ - Valentine&#39;s Day](https://blog.arisamiga.rocks/post/valentines/)
-- [“The time you enjoy wasting, is not wasted time” - John Lennon](https://blog.arisamiga.rocks/post/quote37/)
 <!-- BLOG-POST-LIST:END -->
 
 #
