@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Quote Test Website!](https://blog.arisamiga.rocks/post/quotetest/)
 - [“A day without sunshine is like, you know, night.” - Steve Martin](https://blog.arisamiga.rocks/post/quote38/)
-- [“I can make that!“ - Valentine&#39;s Day](https://blog.arisamiga.rocks/post/valentines/)
 <!-- BLOG-POST-LIST:END -->
 
 #
