@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“In this game, everyone needs a break to refuel, recharge, and jump back in full throttle.” - Helen Edwards](https://blog.arisamiga.rocks/post/quote39/)
 - [Making a Quote Test Website!](https://blog.arisamiga.rocks/post/quotetest/)
-- [“A day without sunshine is like, you know, night.” - Steve Martin](https://blog.arisamiga.rocks/post/quote38/)
 <!-- BLOG-POST-LIST:END -->
 
 #
