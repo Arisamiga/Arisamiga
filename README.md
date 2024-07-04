@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“I can make that“ - Elementary Cellular Automata](https://blog.arisamiga.rocks/post/ecasdlc/)
 - [“In this game, everyone needs a break to refuel, recharge, and jump back in full throttle.” - Helen Edwards](https://blog.arisamiga.rocks/post/quote39/)
-- [Making a Quote Test Website!](https://blog.arisamiga.rocks/post/quotetest/)
 <!-- BLOG-POST-LIST:END -->
 
 #
