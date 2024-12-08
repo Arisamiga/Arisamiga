@@ -41,7 +41,7 @@
 
 #
 
-<img src="https://arisamigastats.vercel.app/api?username=Arisamiga" width=455></img>
-<img src="https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact" width=358></img>
+<img src="https://arisamigastats.vercel.app/api?username=Arisamiga" height=200></img>
+<img src="https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact&langs_count=10" height=200></img>
 
 ^ This calculates the private repositories :D
