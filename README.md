@@ -25,7 +25,7 @@
 #
 - 🔭 I’m currently working on coding 🤖Bots and Automations and 🕸️Websites and my 📝[Blog](https://blog.arisamiga.rocks/)!
 
-- 🌱 I’m currently learning **SQL, Java and C!**
+- 🌱 I’m currently learning **SQL, Java, C and C#!**
 
 -  <img src="https://i.imgur.com/9NhAizF.gif" width="25" height="25"> Amiga Lover!
 
