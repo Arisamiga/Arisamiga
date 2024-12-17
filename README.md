@@ -22,43 +22,45 @@
 
 ### 🛠️ Skills
 
+
+
 #### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" alt="SQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40" alt="Lua">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="SQL">
 </p>
 
 #### Front-End Development
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-f06529?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="40" alt="jQuery">
 </p>
 
 #### DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/-CI/CD-007ACC?logo=visual-studio&logoColor=white" alt="CI/CD">
-  <img src="https://img.shields.io/badge/-Hugo-FF4088?logo=hugo&logoColor=white" alt="Hugo">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub Actions">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="CI/CD">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" height="40" alt="Hugo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
 </p>
 
 #### Platforms & Environments
 <p>
-  <img src="https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white" alt="Windows Server">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
-  <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?logo=google&logoColor=white" alt="Google Workspace">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows Server">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud Platform">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" alt="Google Workspace">
 </p>
 
 ---
