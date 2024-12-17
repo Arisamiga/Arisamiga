@@ -10,7 +10,7 @@
 
 ---
 
-### 👀 About Me
+### > About Me
 
 - 🔭 I’m currently working on coding **🤖 Bots and Automations**, **🕸️ Websites**, and my **📝 [Blog](https://blog.arisamiga.rocks/)**!
 
