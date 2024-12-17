@@ -20,29 +20,43 @@
 
 ### 🛠️ Skills
 
-#### Languages
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-HTML5-f06529?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" alt="SQL">
 </p>
 
-#### Frameworks and Libraries
+#### Front-End Development
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white" alt="Chart.js">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/-HTML5-f06529?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery">
 </p>
 
-#### Tools and Platforms
+#### DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Hugo-black.svg?logo=Hugo" alt="Hugo">
+  <img src="https://img.shields.io/badge/-CI/CD-007ACC?logo=visual-studio&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/-Hugo-FF4088?logo=hugo&logoColor=white" alt="Hugo">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+</p>
+
+#### Platforms & Environments
+<p>
+  <img src="https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white" alt="Windows Server">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
+  <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?logo=google&logoColor=white" alt="Google Workspace">
 </p>
 
 ---
