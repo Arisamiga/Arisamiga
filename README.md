@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Its Christmas Time!! ☃️](https://blog.arisamiga.rocks/post/christmas2024/)
 - [“Shoot for the moon even if you miss, you’ll land among the stars.” - Norman Vincent Peale](https://blog.arisamiga.rocks/post/quote40/)
-- [“I can make that“ - Elementary Cellular Automata](https://blog.arisamiga.rocks/post/ecasdlc/)
 <!-- BLOG-POST-LIST:END -->
 
 #
