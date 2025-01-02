@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“The new year stands before us, like a chapter in a book, waiting to be written.” - Melody Beattie](https://blog.arisamiga.rocks/post/quote41/)
 - [Its Christmas Time!! ☃️](https://blog.arisamiga.rocks/post/christmas2024/)
-- [“Shoot for the moon even if you miss, you’ll land among the stars.” - Norman Vincent Peale](https://blog.arisamiga.rocks/post/quote40/)
 <!-- BLOG-POST-LIST:END -->
 
 #
