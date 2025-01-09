@@ -61,6 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud Platform">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" alt="Google Workspace">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </p>
 
 ---
