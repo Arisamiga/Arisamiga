@@ -4,10 +4,6 @@
   <img src="https://i.imgur.com/usxXcd9.gif" alt="Welcome GIF">
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/arisamiga_"><img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter" height="30"></a>
-</p>
-
 ---
 
 ### > About Me
@@ -18,6 +14,7 @@
 
 - <img src="https://i.imgur.com/9NhAizF.gif" width="25" height="25"> Amiga Lover! 
 
+- 📫 How to reach me: <a href="https://twitter.com/arisamiga_"><img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter" height="30"></a>
 ---
 
 ### 🛠️ Skills
