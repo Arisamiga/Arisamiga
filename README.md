@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“I can make that“ - Wishlists](https://blog.arisamiga.rocks/post/wishlists/)
 - [“The new year stands before us, like a chapter in a book, waiting to be written.” - Melody Beattie](https://blog.arisamiga.rocks/post/quote41/)
-- [Its Christmas Time!! ☃️](https://blog.arisamiga.rocks/post/christmas2024/)
 <!-- BLOG-POST-LIST:END -->
 
 #
