@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Closure of Costume Client](https://blog.arisamiga.rocks/post/shutdowncostumeclient/)
 - [“The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt](https://blog.arisamiga.rocks/post/quote42/)
-- [“I can make that“ - Wishlists](https://blog.arisamiga.rocks/post/wishlists/)
 <!-- BLOG-POST-LIST:END -->
 
 #
