@@ -35,8 +35,8 @@
 📚  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Living in the present moment creates the experience of eternity.” - Deepak Chopra](https://blog.arisamiga.rocks/post/quote43/)
 - [Closure of Costume Client](https://blog.arisamiga.rocks/post/shutdowncostumeclient/)
-- [“The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt](https://blog.arisamiga.rocks/post/quote42/)
 <!-- BLOG-POST-LIST:END -->
 
 #
