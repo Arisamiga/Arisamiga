@@ -1,47 +1,85 @@
-## Hi there 👋, I'm Arisamiga! :D
+<h1 align="left">Hi there 👋, I'm Arisamiga! :D</h1>
 
-&nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/usxXcd9.gif">
+<p align="left">
+  <img src="https://i.imgur.com/usxXcd9.gif" alt="Welcome GIF">
+</p>
 
-![Javascript](https://img.shields.io/badge/-Javascript-f0db4f?logo=javascript&logoColor=white) 
-![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-f06529?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white) 
-![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white) 
-![Node.Js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+---
 
-![Chart.Js](https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?logo=Hugo)
+### > About Me
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
+- 🔭 I’m currently working on coding **🤖 Bots and Automations**, **🕸️ Websites**, and my **📝 [Blog](https://blog.arisamiga.rocks/)**!
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
+- 🌱 I’m currently learning **SQL, Java, C, C# and GO!**
 
-[1]: https://twitter.com/arisamiga_
-#
-- 🔭 I’m currently working on coding 🤖Bots and Automations and 🕸️Websites and my 📝[Blog](https://blog.arisamiga.rocks/)!
+- <img src="https://i.imgur.com/9NhAizF.gif" width="25" height="25"> Amiga Lover! 
 
-- 🌱 I’m currently learning **SQL, Java, C and C#!**
+- 📫 How to reach me: <a href="https://twitter.com/arisamiga_"><img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter" height="30"></a>
+---
 
--  <img src="https://i.imgur.com/9NhAizF.gif" width="25" height="25"> Amiga Lover!
+### 🛠️ Skills
 
-- 📫 How to reach me: [![alt text][1.2]][1]
 
-#
-📚  Latest Blog Posts
+
+#### Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40" alt="Lua">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="SQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" height="40" alt="GO">
+</p>
+
+#### Front-End Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="40" alt="jQuery">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" height="40" alt="Astro">
+</p>
+
+#### DevOps & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="CI/CD">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" height="40" alt="Hugo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
+</p>
+
+#### Platforms & Environments
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows Server">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud Platform">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" alt="Google Workspace">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="Amazon Web Services">
+</p>
+
+---
+
+### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [“Living in the present moment creates the experience of eternity.” - Deepak Chopra](https://blog.arisamiga.rocks/post/quote43/)
 - [Closure of Costume Client](https://blog.arisamiga.rocks/post/shutdowncostumeclient/)
 <!-- BLOG-POST-LIST:END -->
 
-#
+---
 
-<img src="https://arisamigastats.vercel.app/api?username=Arisamiga" height=200></img>
-<img src="https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact&langs_count=10" height=200></img>
+### 📊 GitHub Stats
 
-^ This calculates the private repositories :D
+<p align="center">
+  <img src="https://arisamigastats.vercel.app/api?username=Arisamiga&show_icons=true&theme=default" alt="GitHub Stats" height="200"></img>
+  <img src="https://arisamigastats.vercel.app/api/top-langs?username=Arisamiga&show_icons=true&layout=compact&langs_count=10&theme=default" alt="Top Languages" height="200"></img>
+</p>
+
+<p align="center">
+  <i>This calculates the private repositories :D</i>
+</p>
