@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on coding **🤖 Bots and Automations**, **🕸️ Websites**, and my **📝 [Blog](https://blog.arisamiga.rocks/)**!
 
-- 🌱 I’m currently learning **SQL, Java, C, and C#!**
+- 🌱 I’m currently learning **SQL, Java, C, C# and GO!**
 
 - <img src="https://i.imgur.com/9NhAizF.gif" width="25" height="25"> Amiga Lover! 
 
@@ -30,6 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40" alt="Lua">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="SQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" height="40" alt="GO">
 </p>
 
 #### Front-End Development
