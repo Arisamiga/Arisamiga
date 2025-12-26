@@ -67,8 +67,8 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Its Christmassssssssssssssssssss 🎁](https://blog.arisamiga.rocks/post/christmas2025/)
 - [“Living in the present moment creates the experience of eternity.” - Deepak Chopra](https://blog.arisamiga.rocks/post/quote43/)
-- [Closure of Costume Client](https://blog.arisamiga.rocks/post/shutdowncostumeclient/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
