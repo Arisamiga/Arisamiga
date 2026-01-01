@@ -67,8 +67,8 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“New year — a new chapter, new verse, or just the same old story? Ultimately we write it.” - Alex Morritt](https://blog.arisamiga.rocks/post/quote44/)
 - [Its Christmassssssssssssssssssss 🎁](https://blog.arisamiga.rocks/post/christmas2025/)
-- [“Living in the present moment creates the experience of eternity.” - Deepak Chopra](https://blog.arisamiga.rocks/post/quote43/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
