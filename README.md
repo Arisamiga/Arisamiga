@@ -51,6 +51,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="CI/CD">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" height="40" alt="Hugo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" alt="Nginx">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nomad/nomad-original.svg" height="40" alt="Nomad">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/traefikproxy/traefikproxy-original-wordmark.svg" height="40" alt="Traefik Proxy">
 </p>
 
 #### Platforms & Environments
@@ -60,6 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud Platform">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" alt="Google Workspace">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="Amazon Web Services">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="Debian">
 </p>
 
 ---
