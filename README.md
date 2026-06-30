@@ -71,8 +71,8 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Success is going from failure to failure without loss of enthusiasm.“ - Winston Churchhill](https://blog.arisamiga.rocks/post/quote45/)
 - [“I can make that“ - E-Book Reader](https://blog.arisamiga.rocks/post/ebook/)
-- [“New year — a new chapter, new verse, or just the same old story? Ultimately we write it.” - Alex Morritt](https://blog.arisamiga.rocks/post/quote44/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
