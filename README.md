@@ -71,8 +71,8 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mnemosyne 1.3.0 Release!](https://blog.arisamiga.rocks/post/mnemosyne1-3-0/)
 - [“Success is going from failure to failure without loss of enthusiasm.“ - Winston Churchhill](https://blog.arisamiga.rocks/post/quote45/)
-- [“I can make that“ - E-Book Reader](https://blog.arisamiga.rocks/post/ebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
